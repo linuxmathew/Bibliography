@@ -1,0 +1,76 @@
+body {
+    font-family: verdana;
+    font-size: 15px;
+}
+/* ============= THE HEADER SECTION ============*/
+#header1 {
+    height: 35px;
+    background-color: black;
+   }
+
+#header1 ul {
+    list-style-type: none;
+    padding: 5px;
+   }
+
+#header1 ul .headerr{
+    color: white;
+    display: inline;
+    margin-right: 10px;
+        margin-left: 10PX;
+   }
+
+   #header1 ul .headerr a{
+        text-decoration:none;
+        color: white; 
+        }
+
+  #floatright{
+    float: right;
+        }
+
+#shift {
+    float: right;
+    margin-right: 20px;
+    }
+/*====== CONTENT SECTION ========*/
+#section {
+    background-color: #eee;
+ 
+    }
+
+#heading {
+    color: rgb(46, 185, 231);
+    text-align: center;
+ padding-top: 10px;
+ margin-top:0;
+    }
+
+  h2{
+    color: rgb(66, 212, 66);
+    text-align:center;
+    }
+
+ .albert{
+    display: block;
+    margin-right:auto;
+    margin-left: auto;
+    }
+
+ .imgtag {
+    text-align:center;
+    margin-top:0;
+    }
+  
+  h3 {
+    text-align: center;
+    font-weight: bold;
+    }
+
+  #quote{
+font-size: 18px;
+    }
+
+ #reference{
+    color:purple;
+}
